@@ -1,6 +1,6 @@
 # Python-Avançado-Setor-Imobiliario
 
-### Desenvolvido com técnicas avançadas de Python, com técnicas de tratamento, organização e estilização dos dataframes usando metodos estatisticos e data visualization
+### Desenvolvido com técnicas avançadas de Python, realizando tratamento, organização e estilização dos dataframes usando metodos estatisticos e data visualization
 
 Alguns pontos legais que abordei nesse projeto:
 
