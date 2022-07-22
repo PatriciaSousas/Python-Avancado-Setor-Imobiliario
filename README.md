@@ -2,7 +2,7 @@
 
 ### Desenvolvido com técnicas avançadas de Python, realizando tratamento, organização e estilização dos dataframes usando metodos estatisticos e data visualization
 
-Alguns pontos legais que abordei nesse projeto:
+Alguns pontos interessantes que abordei nesse projeto::
 
 - Carregar conjuntos de dados nos formatos JSON e XLSX especificando colunas e linhas
 - Transformei informações no formato JSON em Data Frames do pandas
